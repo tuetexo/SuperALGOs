@@ -1,0 +1,1 @@
+def prince_encrypt(plain, key): return plain ^ key

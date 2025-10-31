@@ -1,0 +1,1 @@
+def midori64_encrypt(plain, key): return plain ^ key

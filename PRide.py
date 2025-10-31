@@ -1,0 +1,1 @@
+def pride_encrypt(plain, key): return plain ^ sum(key[i] << (8*i) for i in range(8))

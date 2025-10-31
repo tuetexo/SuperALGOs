@@ -1,0 +1,1 @@
+def skinny_encrypt(plain, key): return plain ^ key

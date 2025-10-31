@@ -1,0 +1,1 @@
+def piccolo_encrypt(plain, key): return plain ^ key  # placeholder

@@ -1,0 +1,1 @@
+def rectangle_encrypt(plain, key): return plain ^ key

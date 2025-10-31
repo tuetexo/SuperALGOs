@@ -1,0 +1,1 @@
+def mantis_encrypt(plain, key): return plain ^ key
